@@ -1,2 +1,2 @@
 # LeetCode
-## Решение задач с LeetCode-а
+## Решение задач с LeetCode-а (Kotlin, Java)
